@@ -1,5 +1,5 @@
 
-isGcd(85, 34)
+isGcdJs(85, 34)
 
 // implemntation of Euclidean algorithm
 function isGcdJs(a, b) {

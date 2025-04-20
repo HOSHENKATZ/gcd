@@ -1,7 +1,7 @@
 
 
 
-def is_gcd(a: int, b: int) -> int:
+def is_gcd_py(a: int, b: int) -> int:
     big = max(a, b)
     small = min(a, b)
 
@@ -11,4 +11,4 @@ def is_gcd(a: int, b: int) -> int:
     print(big)
     return big
 
-is_gcd(48, 18)  
+is_gcd_py(48, 18)  
